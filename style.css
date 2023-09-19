@@ -1,0 +1,45 @@
+table{
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+td,th{
+    border: 2px solid black;
+    width: 14%;
+}
+th{
+    padding: 8px 0;
+    background-color: lightsteelblue;
+}
+td{
+    font-weight: bold;
+    font-size: 23px;
+    padding-bottom: 60px;
+}
+.weekend {
+    background-color: violet;
+    color: white;
+}
+.summer{
+    background-color: lightyellow;
+}
+.regular{
+    background-color: lightcyan;
+}
+.rally{
+    background-color:lightslategrey;
+}
+.firstday{
+    background-color:sandybrown;
+}
+.pictureday{
+    background-color:lightpink;
+}
+.July{
+    background-color:grey;
+    color:lightgray;
+}
+span{
+    resize: 10px;
+}
